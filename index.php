@@ -551,7 +551,13 @@
     <!--    End of Main Content-->
     <!-- ===============================================-->
 
-
+    <!--DIV CONTENEDOR 1-->
+    <div class="container"></div>
+    <div class="class">
+      <div class="row">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, eaque.</p>
+      </div>
+    </div>
 
 
     <!-- ===============================================-->
