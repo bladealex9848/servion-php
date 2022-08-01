@@ -551,7 +551,7 @@
     <!--    End of Main Content-->
     <!-- ===============================================-->
 
-    <!--DIV CONTENEDOR 1-->
+    <!--DIV CONTENEDOR 2-->
     <div class="container"></div>
     <div class="class">
       <div class="row">
