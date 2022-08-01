@@ -551,7 +551,11 @@
     <!--    End of Main Content-->
     <!-- ===============================================-->
 
-    <!--DIV CONTENEDOR 2-->
+<<<<<<< HEAD
+    <!--DIV CONTENEDOR 3-->
+=======
+    <!--DIV CONTENEDOR 1-->
+>>>>>>> parent of 408efd9 (DIV Container 2)
     <div class="container"></div>
     <div class="class">
       <div class="row">
