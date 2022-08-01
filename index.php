@@ -66,7 +66,7 @@
           <div class="row align-items-center min-vh-50 min-vh-sm-75">
             <div class="col-md-5 col-lg-6 order-0 order-md-1"><img class="w-100" src="assets/img/illustrations/hero-header.png" alt="..." /></div>
             <div class="col-md-7 col-lg-6 text-md-start text-center">
-              <h1 class="text-light fs-md-5 fs-lg-6"><?php echo 'Este proyecto está en PHP editado'; ?></h1>
+              <h1 class="text-light fs-md-5 fs-lg-6"><?php echo 'Este proyecto está en PHP editado Prueba Nro. 1'; ?></h1>
               <p class="text-light">Full control of what you use and pay for </p><a class="btn btn-primary" href="https://www.academy.joystick.com.mx" role="button"><?php echo 'Academia de Joystick'; ?></a> <a class="btn btn-primary despedir" href="#" role="button"><?php echo 'Despedir'; ?></a>
             </div>
           </div>
